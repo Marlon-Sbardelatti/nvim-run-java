@@ -62,7 +62,7 @@ rjava.sh "MyJavaFile.java"
 O script irá detectar automaticamente o classpath e executar o arquivo.
 
 Observações
-Certifique-se de que possui o Java Development Kit (JDK) instalado em seu sistema antes de utilizar este script.
+Certifique-se de ter o Java Development Kit (JDK) instalado em seu sistema antes de usar este script.
 
 Contribuição
-Se você tiver sugestões para melhorar o script ou desejar relatar problemas, sinta-se à vontade para contribuir fazendo um fork do repositório e criando uma pull request.
+Se você tiver sugestões para melhorar o script ou quiser relatar problemas, sinta-se à vontade para contribuir fazendo um fork do repositório e criando um pull request.
